@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "08B1D6B6-2262-43A5-9860-2DE12CAA17AB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "724B49DC-FAF3-4480-8880-3B4CBFDFF708"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flix.final/MoviiesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "MoviiesViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "724B49DC-FAF3-4480-8880-3B4CBFDFF708 - 89cc5a0043626653"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix_final.MoviiesViewController.movies.getter : Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "flix.final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliorodriguez/Desktop/codepath_projects/flix.final/flix.final/MoviiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "724B49DC-FAF3-4480-8880-3B4CBFDFF708 - c4d4992603eaab7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix_final.MoviiesViewController.movies.setter : Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "flix.final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliorodriguez/Desktop/codepath_projects/flix.final/flix.final/MoviiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "724B49DC-FAF3-4480-8880-3B4CBFDFF708 - 43fd6a21e5c252a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix_final.MoviiesViewController.movies.modify : Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "flix.final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliorodriguez/Desktop/codepath_projects/flix.final/flix.final/MoviiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "724B49DC-FAF3-4480-8880-3B4CBFDFF708 - 6edc34b26b63efac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix_final.MoviiesViewController.movies.modify : Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "flix.final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliorodriguez/Desktop/codepath_projects/flix.final/flix.final/MoviiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "724B49DC-FAF3-4480-8880-3B4CBFDFF708 - 32a1003aaccf778c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix_final.MoviiesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; flix_final.MoviiesViewController"
+                  moduleName = "flix.final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliorodriguez/Desktop/codepath_projects/flix.final/flix.final/MoviiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "724B49DC-FAF3-4480-8880-3B4CBFDFF708 - f01708641cb2994d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix_final.MoviiesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flix_final.MoviiesViewController&gt;"
+                  moduleName = "flix.final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliorodriguez/Desktop/codepath_projects/flix.final/flix.final/MoviiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "123">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D847BA8-5F3C-415C-9438-54A8905EDA3A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flix.final/MoviiesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A279109-B9F8-4624-93A2-B4B3EA826501"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flix.final/MovieCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "737F54A8-8622-4EB5-AF7F-142CAA0DBEF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flix.final/MovieCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "MovieCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "737F54A8-8622-4EB5-AF7F-142CAA0DBEF2 - 95362b6538119660"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix_final.MovieCell.titleLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "flix.final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliorodriguez/Desktop/codepath_projects/flix.final/flix.final/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "737F54A8-8622-4EB5-AF7F-142CAA0DBEF2 - 6757bd069e51b1bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix_final.MovieCell.titleLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "flix.final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliorodriguez/Desktop/codepath_projects/flix.final/flix.final/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "737F54A8-8622-4EB5-AF7F-142CAA0DBEF2 - 383bffd4104db04a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix_final.MovieCell.titleLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "flix.final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliorodriguez/Desktop/codepath_projects/flix.final/flix.final/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "737F54A8-8622-4EB5-AF7F-142CAA0DBEF2 - 3c7677b5495403d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix_final.MovieCell.titleLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "flix.final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliorodriguez/Desktop/codepath_projects/flix.final/flix.final/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "737F54A8-8622-4EB5-AF7F-142CAA0DBEF2 - c2e876ce238efcd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix_final.MovieCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; flix_final.MovieCell"
+                  moduleName = "flix.final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliorodriguez/Desktop/codepath_projects/flix.final/flix.final/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  uuid = "737F54A8-8622-4EB5-AF7F-142CAA0DBEF2 - 1fcec6e5c509dc2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix_final.MovieCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flix_final.MovieCell&gt;"
+                  moduleName = "flix.final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliorodriguez/Desktop/codepath_projects/flix.final/flix.final/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
